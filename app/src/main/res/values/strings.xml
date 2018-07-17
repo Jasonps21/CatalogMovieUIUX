@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Catalog Movie UI/UX</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="cover_film">Cover film</string>
+    <string name="sedang_tayang">Now Playing</string>
+    <string name="akan_tayang">Up Coming</string>
+    <string name="search">Search</string>
+    <string name="setting">Setting</string>
+    <string name="search_hint">Search your movie</string>
+    <string name="backdrop_poster">backdrop poster</string>
+    <string name="dirilis">Release Date</string>
+    <string name="sinopsis">Overview</string>
+    <string name="poster">Poster</string>
+    <string name="favorite">Favorite</string>
+    <string name="view_poster">View Poster</string>
+
+    <string name="alarmMessage">Good Morning! Catalog Movie missing you </string>
+    <string name="alarmnotif">Dealy Reminder notification </string>
+    <string name="upcomingnotif">Relaase Reminder notification </string>
+
+    <string name="appwidget_text">Catalog Movie Favorite</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">Empty Widget</string>
+    <string name="ubah_bahasa">Ubah Bahasa</string>
+
+    <string name="notification">Notification</string>
+    <string name="settings">Settings</string>
+
+    <string name="key_reminder_daily">reminder_daily</string>
+    <string name="key_reminder_upcoming">reminder_upcoming</string>
+    <string name="key_setting_locale">setting_locale</string>
+
+    <string name="daily_reminder_title">Daily Reminder </string>
+    <string name="daily_reminder_summary">Turn on/off daily reminder</string>
+
+    <string name="upcoming_reminder_title">Upcoming Reminder</string>
+    <string name="upcoming_reminder_summary">Turn on/off upcoming reminder</string>
+
+    <string name="setting_locale_title">Setting Languange</string>
+    <string name="setting_locale_summary">Change languange</string>
+
+    <string name="actived">Active</string>
+    <string name="deactivated">deactivated</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Catalog Movie UI/UX</string>
+    <string name="navigation_drawer_open">Buka Navigasi drawer</string>
+    <string name="navigation_drawer_close">Tutup Navigasi drawer</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="detail">Detail</string>
+    <string name="share">Bagikan</string>
+    <string name="cover_film">Cover film</string>
+    <string name="sedang_tayang">Sedang Tayang</string>
+    <string name="akan_tayang">Akan Tayang</string>
+    <string name="search">Pencarian</string>
+    <string name="setting">Pengaturan</string>
+    <string name="search_hint">Masukkan Judul film</string>
+    <string name="backdrop_poster">backdrop poster</string>
+    <string name="dirilis">Tanggal rilis</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="poster">Poster</string>
+    <string name="favorite">favorit</string>
+    <string name="view_poster">Lihat Poster</string>
+    <string name="alarmMessage">Selamat Pagi! Catalog Movie merindukan mu </string>
+
+    <string name="notification">Notifikasi</string>
+    <string name="settings">Pengaturan</string>
+
+    <string name="daily_reminder_title">Pengingat Harian </string>
+    <string name="daily_reminder_summary">Nyalakan/Matikan notifikasi pengingat harian</string>
+
+    <string name="upcoming_reminder_title">Pengingat Akan Tayang</string>
+    <string name="upcoming_reminder_summary">Nyalakan/Matikan notifikasi pengingat akan tayang</string>
+
+    <string name="setting_locale_title">Pengaturan Bahasa</string>
+    <string name="setting_locale_summary">Ubah bahasa</string>
+
+    <string name="actived">Aktif</string>
+    <string name="deactivated">Tidak Aktif</string>
+</resources>

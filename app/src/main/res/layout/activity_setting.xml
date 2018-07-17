@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Utils.Setting">
+
+    <TextView
+        android:id="@+id/tv_ubah_bahasa"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ubah_bahasa"
+        android:textSize="16dp"
+        android:textColor="@android:color/black"/>
+
+    <Switch
+        android:padding="16dp"
+        android:id="@+id/sw_daily_reminder"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Daily Reminder"
+        android:checked="true"
+        android:gravity="left|center_vertical"/>
+
+    <Switch
+        android:padding="16dp"
+        android:id="@+id/sw_release_reminder"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Release Today Reminder"
+        android:checked="true"
+        android:gravity="left|center_vertical"/>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FavoriteMovie</string>
+    <string name="cover_film">Cover Film</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="backdrop_movie">Backdrop Movie</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="lihat_poster">Lihat Poster</string>
+    <string name="favorite">Favorite</string>
+</resources>

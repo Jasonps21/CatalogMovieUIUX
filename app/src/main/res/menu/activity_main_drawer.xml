@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sedang_tayang"
+            android:icon="@drawable/nowplaying"
+            android:title="@string/sedang_tayang" />
+        <item
+            android:id="@+id/nav_akan_datang"
+            android:icon="@drawable/upcomin"
+            android:title="@string/akan_tayang" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/favorite" />
+    </group>
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/setting"
+        android:title="@string/setting" />
+
+</menu>
